@@ -1,16 +1,25 @@
-##O objetivo do aplicativo é gerar números aleatórios que não se repetem, de acordo com a quantidade de jogos determinados pelo usuário.
-**Tem como regra o minímo de jogos 6 e o máximo 15 números.
+## O objetivo do aplicativo é gerar números aleatórios que não se repetem, de acordo com a quantidade de jogos determinados pelo usuário.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Tem como regra o minímo de jogos 6 e o máximo 15 números.**
 
-## Available Scripts
+**Ferramenta utilizada**
+### `VSConde`
 
-In the project directory, you can run:
+**Dependencias**
+### `Noje.js V.12.16.3`
 
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Projeto criado com: [Create React App](https://github.com/facebook/create-react-app)**
 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Fontes de pesquisa para os estudos:
+Canal: Cod3r Cursos
+
+YouTube Vídeos
+
+React JS Curso Rápido ⚛️ Masterclass #1 2020 - 100% Prático!
+https://www.youtube.com/watch?v=XQxitgyZ_S4&list=PLdPPE0hUkt0q7bwgAlk6UimtBKoNfM1tw&index=1
+
+React JS Curso Rápido ⚛️ Masterclass #2 2020 - 100% Prático!
+https://www.youtube.com/watch?v=GJ8Vm-h0V8I&list=PLdPPE0hUkt0q7bwgAlk6UimtBKoNfM1tw&index=2
+
+
