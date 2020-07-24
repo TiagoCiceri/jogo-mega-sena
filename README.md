@@ -1,3 +1,6 @@
+##O objetivo do aplicativo é gerar números aleatórios que não se repetem, de acordo com a quantidade de jogos determinados pelo usuário.
+**Tem como regra o minímo de jogos 6 e o máximo 15 números.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
