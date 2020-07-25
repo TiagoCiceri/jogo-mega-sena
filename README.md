@@ -3,6 +3,8 @@
 
 **Tem como regra o minímo de jogos 6 e o máximo 15 números.**
 
+![](https://github.com/TiagoCiceri/jogo-mega-sena/blob/master/imagem-prj-mega-sena2.png)
+
 **Ferramenta utilizada**
 #### `VSConde`
 
