@@ -1,4 +1,4 @@
-## O objetivo do aplicativo é gerar números aleatórios que não se repetem, de acordo com a quantidade de jogos determinados pelo usuário.
+## :point_right: O objetivo do aplicativo é gerar números aleatórios que não se repetem, de acordo com a quantidade de jogos determinados pelo usuário.
 
 **Tem como regra o minímo de jogos 6 e o máximo 15 números.**
 
