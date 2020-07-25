@@ -1,17 +1,18 @@
-## :point_right: O objetivo do aplicativo é gerar números aleatórios que não se repetem, de acordo com a quantidade de jogos determinados pelo usuário.
+## React Web
+**:point_right: O objetivo do aplicativo é gerar números aleatórios que não se repetem, de acordo com a quantidade de jogos determinados pelo usuário.**
 
 **Tem como regra o minímo de jogos 6 e o máximo 15 números.**
 
 **Ferramenta utilizada**
-### `VSConde`
+#### `VSConde`
 
 **Dependencias**
-### `Noje.js V.12.16.3`
+#### `Noje.js V.12.16.3`
 
 **Projeto criado com: [Create React App](https://github.com/facebook/create-react-app)**
 comando: npx create-react-app mega-sena
 
-## Fontes de pesquisa para os estudos:
+### Fontes de pesquisa para os estudos:
 Canal: Cod3r Cursos
 
 YouTube Vídeos
